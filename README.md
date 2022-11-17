@@ -1,4 +1,4 @@
-Hi, I am Indresh Chander Nirala with 12+ years of experience in C and C++ backends.
+Hi, I am Indresh Chander Nirala with 14+ years of experience in C/C++ and python.
 
 - I am interested in learning and working on new technologies.
 
